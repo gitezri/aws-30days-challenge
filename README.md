@@ -1,4 +1,4 @@
-# aws-30days-challenge
+# AWS-30days-challenge
 Conquering the AWS Challenge: A 30-Day Journey of Skill Building and Surprises
 Embarking on a 30-day AWS challenge, I set out with a clear goal: to expand my expertise in cloud computing and master the intricacies of Amazon Web Services. What ensued was a journey of discovery, challenges, and pleasant surprises that left me not only enriched but also satisfied with my accomplishments.
 
